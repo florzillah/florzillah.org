@@ -22,7 +22,7 @@ QB.start(); QB.setTypeMap({ GXPOSITION:[{ name: 'x', type: 'LONG' }, { name: 'y'
    await QB.sub_Print([]);
    await QB.sub_Print([]);
    await QB.sub_Print([]);
-   await QB.sub_Print([" Welcome to Florzillah.com's Command Terminal v0.1"]);
+   await QB.sub_Print([" Welcome to Florzillah.org's Command Terminal v0.1"]);
    await QB.sub_Print([" Type 'help' for commands"]);
    await QB.sub_Print(["--------------------------------------------------"]);
    cmd = "";
