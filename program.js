@@ -13,7 +13,7 @@ QB.start(); QB.setTypeMap({ GXPOSITION:[{ name: 'x', type: 'LONG' }, { name: 'y'
    shutdown_temp = "Website has shut down temporarily";
    shutdown_rip = "Website has shut down forever";
    version = "08.22.2026";
-   website = "florzillah.com";
+   website = "florzillah.org";
    typeofwebsite = "placeholder";
    errno =  dev;
    await QB.sub_Print([ errno]);
